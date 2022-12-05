@@ -6,6 +6,7 @@ function App() {
 			<header className="App-header">
 				<h1>The first thing we have deployed!!</h1>
 				<h2>Checking for automatic deployment!!</h2>
+				<h2>Checking again!!</h2>
 			</header>
 		</div>
 	);
